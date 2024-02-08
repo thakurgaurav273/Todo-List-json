@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "id": "0",
+      "time": "9/2/2024, 3:51:07 am",
+      "text": "Wake Up",
+      "done": false,
+      "priority": "High"
+    },
+    {
+      "id": "1",
+      "time": "9/2/2024, 3:51:21 am",
+      "text": "Bathing",
+      "done": false,
+      "priority": "Medium"
+    },
+    {
+      "id": "2",
+      "time": "9/2/2024, 3:51:37 am",
+      "text": "Breakfast",
+      "done": false,
+      "priority": "Low"
+    }
+  ]
+}
